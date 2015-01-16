@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/nikitarokotyan/Development/Projects/Polyhedra/PolyhedronApp/src/Polyhedron.cpp \
+  /Users/nikitarokotyan/Development/Projects/Polyhedra/PolyhedronApp/include/Polyhedron.h \
+  ../../../../Libraries/Cinder_dev_0.8.6/blocks/Audio2/src/cinder/audio2/Source.h \
+  ../../../../Libraries/Cinder_dev_0.8.6/blocks/Audio2/src/cinder/audio2/Buffer.h \
+  ../../../../Libraries/Cinder_dev_0.8.6/blocks/Audio2/src/cinder/audio2/CinderAssert.h \
+  ../../../../Libraries/Cinder_dev_0.8.6/blocks/Audio2/src/cinder/audio2/Target.h \
+  ../../../../Libraries/Cinder_dev_0.8.6/blocks/Audio2/src/cinder/audio2/SampleType.h \
+  ../../../../Libraries/Cinder_dev_0.8.6/blocks/Audio2/src/cinder/audio2/dsp/Converter.h \
+  ../../../../Libraries/Cinder_dev_0.8.6/blocks/Audio2/src/cinder/audio2/SamplePlayer.h \
+  ../../../../Libraries/Cinder_dev_0.8.6/blocks/Audio2/src/cinder/audio2/NodeInput.h \
+  ../../../../Libraries/Cinder_dev_0.8.6/blocks/Audio2/src/cinder/audio2/Node.h \
+  ../../../../Libraries/Cinder_dev_0.8.6/blocks/Audio2/src/cinder/audio2/Exception.h \
+  ../../../../Libraries/Cinder_dev_0.8.6/blocks/Audio2/src/cinder/audio2/Param.h \
+  ../../../../Libraries/Cinder_dev_0.8.6/blocks/Audio2/src/cinder/audio2/Device.h \
+  ../../../../Libraries/Cinder_dev_0.8.6/blocks/Audio2/src/cinder/audio2/dsp/RingBuffer.h \
+  ../../../../Libraries/Cinder_dev_0.8.6/blocks/Audio2/src/cinder/audio2/NodeEffect.h \
+  ../../../../Libraries/Cinder_dev_0.8.6/blocks/Audio2/src/cinder/audio2/dsp/Dsp.h \
+  ../../../../Libraries/Cinder_dev_0.8.6/blocks/Audio2/src/cinder/audio2/Scope.h \
+  ../../../../Libraries/Cinder_dev_0.8.6/blocks/Audio2/src/cinder/audio2/Context.h \
+  ../../../../Libraries/Cinder_dev_0.8.6/blocks/Audio2/src/cinder/audio2/NodeOutput.h \
+  ../../../../Libraries/Cinder_dev_0.8.6/blocks/Audio2/src/cinder/audio2/Debug.h
